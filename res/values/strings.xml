@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndConfigurationChangedActivity!</string>
+    <string name="app_name">And ConfigurationChanged Demo</string>
+    <string name="message_icon_desc">just for placeholder</string>
+
+</resources>
